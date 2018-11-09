@@ -6,5 +6,8 @@ public class World {
 		if (anfrage.contains("Hello")) {
 			System.out.println("Hello!!!");
 		}
+		if (anfrage.contains("Bye")) {
+			System.out.println("Bye..");
+		}
 	}
 }

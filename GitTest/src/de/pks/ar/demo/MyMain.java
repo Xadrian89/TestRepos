@@ -6,6 +6,10 @@ public class MyMain {
 		String anfrage = "Hello World!";
 		System.out.println(anfrage);
 		World.antworte(anfrage);
-		}
+		
+		anfrage = "Bye World";
+		System.out.println(anfrage);
+		World.antworte(anfrage);
+	}
 
 }
