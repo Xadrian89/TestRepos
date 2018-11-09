@@ -6,7 +6,6 @@ public class MyMain {
 		String anfrage = "Hello World!";
 		System.out.println(anfrage);
 		World.antworte(anfrage);
-		System.out.println("Lala");
-	}
+		}
 
 }
